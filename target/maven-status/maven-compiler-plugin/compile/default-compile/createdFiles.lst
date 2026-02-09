@@ -1,0 +1,4 @@
+com\iamneo\studentms\Model\studentModel.class
+com\iamneo\studentms\Controller\studentController.class
+com\iamneo\studentms\Dao\studentDao.class
+com\iamneo\studentms\Util\studentUtil.class
